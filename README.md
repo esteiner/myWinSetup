@@ -1,1 +1,3 @@
 # myWinSetup
+
+## Aliases CMD Shell

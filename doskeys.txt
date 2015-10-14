@@ -1,0 +1,4 @@
+alias=doskey /m
+printer=admin C:\WINDOWS\system32\MSTMON_P.EXE
+home=cd %HOME%
+mci=cls $t mvn clean install
